@@ -47,5 +47,10 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Доступ к распознаванию речи</string>
+		<key>NSMicrophoneUsageDescription</key>
+	<string>Доступ к микрофону для распознавания речи</string>
+
 </dict>
 </plist>
